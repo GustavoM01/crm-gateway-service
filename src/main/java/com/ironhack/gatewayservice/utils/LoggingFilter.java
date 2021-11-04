@@ -1,4 +1,4 @@
-package com.ironhack.gatewayservice;
+package com.ironhack.gatewayservice.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
